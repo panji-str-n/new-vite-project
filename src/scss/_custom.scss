@@ -1,0 +1,10 @@
+$custom-colors: (
+  "new-color": pink
+);
+$primary: #7628d4 !important;
+
+$theme-colors: (
+ "primary": $primary
+ );
+
+// $theme-colors: map-merge($theme-colors, $custom-colors);
